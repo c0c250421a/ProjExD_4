@@ -264,9 +264,6 @@ class Gravity(pg.sprite.Sprite):
             self.kill()
 
 
-
-
-
 class Life:
     """
     残機数（ライフ）を表示するクラス
